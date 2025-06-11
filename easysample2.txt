@@ -1,0 +1,16 @@
+int h;
+void main(void) {
+    int x;
+    int y;
+    y=2;
+    x=9;
+    x = cuadrado(x);
+    return x;
+}
+
+int cuadrado(int n) {
+    int r;
+    r = n * n;
+    h=99;
+    return r;
+}
